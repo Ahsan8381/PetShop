@@ -28,7 +28,7 @@ Layout.defaultProps = {
   title: "PetUs",
   description: "mern stack project",
   keywords: "mern,react,node,mongodb",
-  author: "Techinfoyt",
+  author: "Mohd Ahsan",
 };
 
 export default Layout;
